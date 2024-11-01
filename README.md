@@ -15,7 +15,7 @@ Este projeto é uma aplicação Spring Boot que implementa uma API RESTful para 
 
 ## Etapas de Criação do Projeto
 
-### 1. Criação do Projeto com Spring Initializr
+# 1. Criação do Projeto com Spring Initializr
 
 Iniciamos o projeto utilizando o [Spring Initializr](https://start.spring.io/):
 
@@ -36,7 +36,7 @@ Iniciamos o projeto utilizando o [Spring Initializr](https://start.spring.io/):
 
 Após configurar as opções, geramos e baixamos o projeto, que foi importado no IntelliJ IDEA.
 
-### 2. Estrutura do Projeto
+# 2. Estrutura do Projeto
 
 Após importar o projeto no IntelliJ IDEA, a estrutura do diretório foi organizada da seguinte forma:
 
